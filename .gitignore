@@ -1,0 +1,6 @@
+# Ignored folders
+node_modules/
+.next/
+dist/
+build/
+.env
