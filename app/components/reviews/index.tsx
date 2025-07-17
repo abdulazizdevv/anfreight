@@ -31,7 +31,7 @@ const testimonials = [
   },
   {
     id: 5,
-    name: 'ALI',
+    name: 'WILLIAM',
     review:
       'The support team speaks clearly and answers with respect. Everything was arranged fast, and delivery came on time. I trust ANFREIGHT with no doubts!',
   },
