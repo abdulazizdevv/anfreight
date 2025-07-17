@@ -32,8 +32,8 @@ function Solutions() {
         fontWeight={'semibold'}
         fontSize={{ base: 20, lg: 47 }}
       >
-        We deliver more than just freight — we deliver trust, speed, and
-        solutions tailored to your needs.
+        We work with shippers, brokers, and carriers who value communication,
+        punctuality, and strong partnerships.
       </Text>
       <SimpleGrid
         alignItems={'center'}

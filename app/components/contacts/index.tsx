@@ -20,15 +20,15 @@ const benifitCards = [
     icon: IoCallOutline,
   },
   {
-    title: 'hr@gfs-groupllc.com',
+    title: ' anfreightlogistics@gmail.com',
     icon: MdOutlineMailOutline,
   },
   {
-    title: '1600 Heritage Landing Suite 112C, Saint Peters, MO',
+    title: '2952 W ADAMS ST SAINT CHARLES, MO   63301',
     icon: GrLocation,
   },
   {
-    title: 'Monday - Friday: from 9 AM to 6 PM. Saturday: from 9 AM to 3 PM.',
+    title: '24/7 for dispatch and support',
     icon: LuClock3,
   },
 ];
@@ -64,7 +64,7 @@ function Contacts() {
         height={{ base: '200px', lg: '730px' }}
       >
         <iframe
-          src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.511858117163!2d-90.549945!3d38.7519625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87df294496e9eaad%3A0x1e0de56385c5e95!2s1600%20Heritage%20Landing%20Suite%20112C%2C%20St%20Peters%2C%20MO%2063303%2C%20USA!5e0!3m2!1sen!2s!4v1752591955809!5m2!1sen!2s'
+          src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1666.4016846723173!2d-90.50173542591752!3d38.804972069393976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87df2f6eb5a5c02f%3A0xac0ccf77ea17e344!2s2952%20W%20Adams%20St%2C%20St%20Charles%2C%20MO%2063301%2C%20USA!5e0!3m2!1sen!2s!4v1752766262499!5m2!1sen!2s'
           width='100%'
           height='100%'
           loading='lazy'

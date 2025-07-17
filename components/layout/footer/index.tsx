@@ -64,31 +64,31 @@ export default function Footer() {
               Contacts
             </Text>
             <Stack mt={{ base: 7, lg: '50px' }} gap={{ base: 5, lg: 8 }}>
-              <Link
+              {/* <Link
                 href='tel:6364421334'
                 color={'red'}
                 fontWeight={'bold'}
                 fontSize={{ base: 13, lg: 24 }}
               >
                 (636)-442-1334
-              </Link>
+              </Link> */}
               <Link
-                href='tel:3144511111'
+                href='tel:6363844444'
                 fontWeight={'bold'}
                 color={'red'}
                 fontSize={{ base: 13, lg: 24 }}
               >
-                (314) 451-1111
+                636-384-4444
               </Link>
               <Box>
                 <Text fontWeight={'semibold'} fontSize={{ base: 13, lg: 24 }}>
                   Email:
                 </Text>
                 <Link
-                  href='mailto:hr@gfs-groupllc.com'
+                  href='mailto:anfreightlogistics@gmail.com'
                   fontSize={{ base: 13, lg: 24 }}
                 >
-                  hr@gfs-groupllc.com
+                  anfreightlogistics@gmail.com
                 </Link>
               </Box>
             </Stack>
@@ -108,7 +108,7 @@ export default function Footer() {
                 height={{ base: '101px', lg: '186px' }}
               >
                 <iframe
-                  src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.511858117163!2d-90.549945!3d38.7519625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87df294496e9eaad%3A0x1e0de56385c5e95!2s1600%20Heritage%20Landing%20Suite%20112C%2C%20St%20Peters%2C%20MO%2063303%2C%20USA!5e0!3m2!1sen!2s!4v1752591955809!5m2!1sen!2s'
+                  src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1666.4016846723173!2d-90.50173542591752!3d38.804972069393976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87df2f6eb5a5c02f%3A0xac0ccf77ea17e344!2s2952%20W%20Adams%20St%2C%20St%20Charles%2C%20MO%2063301%2C%20USA!5e0!3m2!1sen!2s!4v1752766262499!5m2!1sen!2s'
                   width='100%'
                   height='100%'
                   loading='lazy'

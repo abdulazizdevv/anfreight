@@ -11,19 +11,19 @@ import React from 'react';
 const knowDatas = [
   {
     title: '01',
-    text: 'We know what drivers deserve — real respect, steady miles, and top pay.',
+    text: 'Experienced & Safety-Focused Drivers',
   },
   {
     title: '02',
-    text: 'At GFS GROUP, you’re not just a number — you’re part of a team that values your time, your skills, and your life on and off the road.',
+    text: 'On-Time Delivery Guarantee',
   },
   {
     title: '03',
-    text: 'We offer competitive rates, flexible routes, and 24/7 support to keep you moving and earning.',
+    text: 'Well-Maintained Equipment',
   },
   {
     title: '04',
-    text: 'Ready for a company  that drives your success?  Join GFS GROUP today — Where Drivers Come First!',
+    text: '24/7 Support & Real-Time Updates',
   },
 ];
 
@@ -40,10 +40,8 @@ function WhyUs() {
           fontSize={{ base: '11px', lg: '25px' }}
           lineHeight={{ base: '14px', lg: '32px' }}
         >
-          We collaborate with industReliable logistics solutions based on
-          experience, speed and global reach are why companies choose
-          us.ry-leading brands and companies to deliver exceptional value and
-          innovation.
+          When you choose AN Freight Logistics, you’re choosing peace of mind on
+          every mile.
         </Text>
       </Center>
       <Center

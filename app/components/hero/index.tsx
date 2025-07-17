@@ -50,18 +50,21 @@ function Hero() {
                   fontSize={{ base: 26, lg: 79 }}
                   lineHeight={{ base: '38px', lg: '95px' }}
                 >
-                  General <Span color={'red'}>Freight</Span> <br />
-                  Solutions
+                  Delivering with <br /> <Span color={'red'}> Integrity. </Span>
+                  Powered <br /> by Experience.
+                  {/* <Span color={'red'}>Freight</Span> <br />
+                  Solutions */}
                 </Heading>
                 <Text
                   maxW={'614px'}
                   color={'light'}
                   fontSize={{ base: '10px', lg: '22px' }}
                 >
-                  GFS – General Freight Solutions offers reliable loads, fair
-                  rates, and steady support to keep drivers moving and earning.
-                  Drive with a team that values your time, effort, and
-                  independence.
+                  With over 3 years of trusted service, AN Freight Logistics LLC
+                  is a growing force in the trucking industry. We specialize in
+                  OTR Freight , offering reliable and efficient logistics
+                  solutions across the U.S. Our mission is simple: move freight
+                  safely, on time, and with unmatched professionalism.
                 </Text>
                 <Button
                   w={'full'}
