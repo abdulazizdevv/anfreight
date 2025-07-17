@@ -7,31 +7,31 @@ import { keyframes } from '@emotion/react';
 const testimonials = [
   {
     id: 1,
-    name: 'ANDREW',
+    name: 'JOSEPH',
     review:
       'Smooth process from start to finish. I got real-time updates and my package arrived earlier than expected. ANFREIGHT never fails.',
   },
   {
     id: 2,
-    name: 'SOFIA',
+    name: 'TOMAS',
     review:
       'Loved how easy it was to schedule my delivery. They even confirmed the time by phone — super professional team!',
   },
   {
     id: 3,
-    name: 'ABDULRAHMAN',
+    name: 'SARVAR',
     review:
       'The service is top notch. My shipments arrive on time, even when they go through several countries. ANFREIGHT is a reliable partner.',
   },
   {
     id: 4,
-    name: 'DMITRIY',
+    name: 'ELIF',
     review:
       "The best service I've used so far. I can track everything and I always get notified before the courier arrives.",
   },
   {
     id: 5,
-    name: 'FAZLIDDIN',
+    name: 'ALI',
     review:
       'The support team speaks clearly and answers with respect. Everything was arranged fast, and delivery came on time. I trust ANFREIGHT with no doubts!',
   },
