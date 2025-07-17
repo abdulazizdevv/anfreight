@@ -120,7 +120,7 @@ export default function Footer() {
                 maxW={{ base: '186px', lg: '343px' }}
                 fontSize={{ base: 11, lg: 18 }}
               >
-                1600 Heritage Landing Suite 112C, Saint Peters, MO
+                2952 W ADAMS ST SAINT CHARLES, MO 63301{' '}
               </Text>
             </Stack>
           </Stack>
@@ -166,7 +166,7 @@ export default function Footer() {
           w={'full'}
           display={{ base: 'none', lg: 'flex' }}
         >
-          <Text color={'red'}>© 2025 Gfs-Groupllc. All Rights Reserved.</Text>
+          <Text color={'red'}>© 2025 ANFREIGHT. All Rights Reserved.</Text>
           <Link color={'red'}>Terms of Service</Link>
           <Link color={'red'}>Privacy Policy</Link>
         </HStack>
@@ -205,7 +205,7 @@ export default function Footer() {
               </Link>
             </HStack>
             <Text fontSize={10} color={'red'}>
-              © 2025 Gfs-Groupllc. All Rights Reserved.
+              © 2025 ANFREIGHT. All Rights Reserved.
             </Text>
           </Box>
           <Stack>
