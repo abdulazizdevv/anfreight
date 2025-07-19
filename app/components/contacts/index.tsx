@@ -16,7 +16,7 @@ import { LuClock3 } from 'react-icons/lu';
 
 const benifitCards = [
   {
-    title: '(636)-442-1334',
+    title: '(636)-384-4444',
     icon: IoCallOutline,
   },
   {
