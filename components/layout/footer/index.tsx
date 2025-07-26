@@ -146,7 +146,7 @@ export default function Footer() {
           </Link>
           <Link
             target='_blank'
-            href='https://www.instagram.com/gfsgroupllc'
+            href='https://www.instagram.com/anfreightlogistics?igsh=YWpvYWx6NWhyazRl&utm_source=qr'
             rounded={'full'}
           >
             <Image w={6} src={'/icons/instagram.svg'} alt='yotube' />
@@ -198,7 +198,7 @@ export default function Footer() {
               </Link>
               <Link
                 target='_blank'
-                href='https://www.instagram.com/gfsgroupllc'
+                href='https://www.instagram.com/anfreightlogistics?igsh=YWpvYWx6NWhyazRl&utm_source=qr'
                 rounded={'full'}
               >
                 <Image w={6} src={'/icons/instagram.svg'} alt='yotube' />
